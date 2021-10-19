@@ -9,3 +9,6 @@ Goal-oriented person with a penchant for communication who transitioned into sof
 • Tools: Heroku, Git, Slack, GitHub
 <br>
 • Dev Practices: TDD, Clean-Code-Javascript
+<br>
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissaelOrtiz)](https://github.com/anuraghazra/github-readme-stats)
